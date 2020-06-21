@@ -1,4 +1,4 @@
 # TEAM DETAILS
-**TEAM SIZE: 1**
-**NAME: SURAJ JITENDRA TIWARI**
-**EMAILID: suraj300018@gmail.com**
+* **TEAM SIZE: 1**
+* **NAME: SURAJ JITENDRA TIWARI**
+* **EMAILID: suraj300018@gmail.com**
